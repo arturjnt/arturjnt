@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arturjnt - a Freelancer Software Engineer
-- 👀 I’m interested in Vue, Node and Flutter <3
-- 🌱 I’m currently working on React, Gatsby, Dart, Firebase...
+- 👀 I’m interested in Godot, Flutter, Dart, Firebase and Node <3
+- 🌱 I’m currently working on React, Node, GraphQL...
 - 💞️ I’m looking to collaborate on anything that makes the world a better place.
 
 👨‍💻 A small summary of what I do and who I am:
