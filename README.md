@@ -12,5 +12,3 @@ I've managed teams of 1 to 15 people of various fields of expertise such as Desi
 Working directly with business owners and clients is something I have years of experience in, therefore I understand the value of translating a vision into an actionable roadmap and its features.
 
 Bringing you value is my passion, that's why I build stuff. 
-
-### 📫 Reach me via: https://artur-teixeira.tech/
