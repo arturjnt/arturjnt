@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arturjnt - a Freelancer Software Engineer
+- 👋 Hi, I’m @arturjnt - a Software Engineer
 - 👀 I’m interested in Godot, Flutter, Dart, Firebase and Node <3
 - 🌱 I’m currently working on React, Node, GraphQL...
 - 💞️ I’m looking to collaborate on anything that makes the world a better place.
