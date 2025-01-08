@@ -5,10 +5,10 @@
 
 👨‍💻 A small summary of what I do and who I am:
 
-Working since 2014 on Software, I've been through every job on the field, from a ticket-grabbing developer, through full-stack, infrastructure, database management, continuous delivery, frontend and backend engineering, and even information security.
+With over 10 years of experience in the software industry, I’ve navigated through various roles since 2014. My journey has taken me from an entry-level developer to mastering full-stack engineering, infrastructure, database management, continuous delivery, frontend and backend engineering, and even information security.
 
-I've managed teams of 1 to 15 people of various fields of expertise such as Design, Data Science, Quality Assurance and Engineering and I was quite lucky to work with some of the best in the business.
+I’ve had the privilege of managing teams of various sizes, from small groups to larger teams, across diverse fields such as Design, Data Science, Quality Assurance, and Engineering. Working alongside some of the best in the business has been a highlight of my career.
 
-Working directly with business owners and clients is something I have years of experience in, therefore I understand the value of translating a vision into an actionable roadmap and its features.
+My extensive experience working directly with business owners and clients has honed my ability to translate visions into actionable roadmaps and features.
 
-Bringing you value is my passion, that's why I build stuff. 
+Bringing value through innovative solutions is my passion, and that’s why I build. 👨‍💻
