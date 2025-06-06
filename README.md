@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arturjnt - a Software Engineer
-- 👀 I’m interested in Godot, Flutter, Dart, Firebase and Node <3
-- 🌱 I’m currently working on React, Node, GraphQL...
+- 👀 I’m interested in Vue, Node, Flutter and AI-Empowered programming <3
+- 🌱 I’m currently working on React, Vue, Node, C#, AWS...
 - 💞️ I’m looking to collaborate on anything that makes the world a better place.
 
 👨‍💻 A small summary of what I do and who I am:
